@@ -1,0 +1,9 @@
+# файлы, создаваемые Lazarus при сборке
+lib/
+backup/
+Bank
+Bank.exe
+Bank.res
+*.lps
+*.dbg
+otchet.txt
